@@ -1,8 +1,4 @@
-Of course, MADDULA! Here's your updated `README.md` content, ready to copy and paste directly into your GitHub repository:
 
----
-
-```markdown
 # 🔥 FLAMES Game
 
 A fun and nostalgic Python script that predicts the relationship between two people based on their names using the classic **FLAMES** logic. Whether you're curious about friendship, love, or rivalry, this game gives you a playful result based on character elimination and modular arithmetic.
@@ -54,7 +50,7 @@ Relationship status: Enemies
 
 - Clean and readable Python code
 - Modular FLAMES logic
-- Easy to customize or extend
+- Easy to customise or extend
 - No external libraries required
 
 ---
@@ -70,7 +66,7 @@ Relationship status: Enemies
 
 ## 🙋‍♂️ Author
 
-**MADDULA SAI SRI RAJ**  
+**MADDULA**  
 First-year BTech AIML student passionate about logic, puzzles, and clean code.  
 Exploring Python, data structures, and interactive applications.
 
@@ -80,3 +76,7 @@ Exploring Python, data structures, and interactive applications.
 
 This project is open-source and free to use under the MIT License.
 ```
+
+---
+
+Let me know once you’ve updated it—I’ll be your first star ⭐ on the repo!
