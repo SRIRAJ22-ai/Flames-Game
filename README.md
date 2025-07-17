@@ -66,7 +66,7 @@ Relationship status: Enemies
 
 ## 🙋‍♂️ Author
 
-**MADDULA**  
+**MADDULA SAI SRI RAJ**  
 First-year BTech AIML student passionate about logic, puzzles, and clean code.  
 Exploring Python, data structures, and interactive applications.
 
@@ -76,7 +76,3 @@ Exploring Python, data structures, and interactive applications.
 
 This project is open-source and free to use under the MIT License.
 ```
-
----
-
-Let me know once you’ve updated it—I’ll be your first star ⭐ on the repo!
